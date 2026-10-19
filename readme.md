@@ -87,39 +87,16 @@ Key areas of investigation include:
 - **Route-Level Differences:** Which routes experience relatively higher cycling activity on weekdays or weekends.
 - **Cycling Distribution:** How weekend cycling counts are distributed across the dataset.
 
-*Specific numerical findings will be added after reviewing the final query results.*
+## 📊 Data Source
 
-## 📁 Repository Structure
+The dataset was obtained from the official open-data catalog for Brno's bike traffic intensity data.
 
-The repository is organized to keep the SQL analysis, Tableau work, and project documentation easy to navigate.
+- **Source:** [Data.Brno](https://data.brno.cz/datasets/d1da67e9d3b5429c935929021278e0d4_0/explore?location=49.160998%2C16.651662%2C9)
+- **Publisher:** City of Brno
+- **Data used:** Intenzita cyklistů 2024
 
-```text
-brno-cycling-analysis/
-│
-├── sql/
-│   └── brno_cycling_analysis.sql
-│
-├── tableau/
-│   └── brno_cycling_dashboard.twbx
-│
-├── visualizations/
-│   └── dashboard_screenshot.png
-│
-├── data/
-│   └── cycling_intensity.csv
-│
-└── README.md
-```
 
-*The structure above is illustrative. Update the folders and filenames to match your actual repository. Include the dataset only if redistribution is permitted.*
 
-## 🚀 How to Explore the Project
-
-To reproduce the analysis, open the SQL script in a MySQL environment and ensure the dataset is available under the expected database and table name. Execute the queries to review the data validation checks and cycling statistics. The Tableau workbook can then be opened to explore the visualizations, provided the workbook and any required data sources are available.
-
-## 🔮 Future Improvements
-
-Potential extensions include developing an interactive Tableau dashboard with route filters, investigating seasonal or monthly cycling trends if suitable data becomes available, and exploring the relationship between route length and cycling intensity.
 
 ## 👤 Author
 
@@ -129,6 +106,3 @@ SQL | Tableau | Data Visualization
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/zaina-khanum)
 
----
-
-*This project demonstrates practical SQL querying, data validation, exploratory data analysis, and data visualization using an urban cycling dataset.*
