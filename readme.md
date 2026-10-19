@@ -99,7 +99,7 @@ The analysis aims to identify meaningful differences in cycling activity across 
 
 ### 5. Weekday vs. Weekend Cycling Scatter Plot
 
-![Weekday vs Weekend Cycling Scatter Plot](visualizations/weekday_vs_weekend.png)
+![Weekday vs Weekend Cycling Scatter Plot](visualizations/weekend_vs_weekday.png)
 
 ### 6. Route Length vs. Cycling Activity
 
