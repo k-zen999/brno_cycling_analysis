@@ -79,13 +79,36 @@ The results of the SQL analysis were explored through Tableau visualizations des
 ## 💡 Key Findings
 
 The analysis aims to identify meaningful differences in cycling activity across weekdays, weekends, and individual routes. The final findings will be based on the SQL query results and Tableau visualizations.
+## Key Visualizations
 
-Key areas of investigation include:
+### 1. Overall Weekday vs. Weekend Cycling
 
-- **Overall Cycling Activity:** Whether total and average cycling counts differ between weekdays and weekends.
-- **Popular Routes:** Which routes record the highest weekday and weekend cycling counts.
-- **Route-Level Differences:** Which routes experience relatively higher cycling activity on weekdays or weekends.
-- **Cycling Distribution:** How weekend cycling counts are distributed across the dataset.
+![Overall Weekday vs Weekend Cycling](visualizations/overall_cycling.png)
+
+### 2. Top 10 Routes by Weekday Cycling
+
+![Top 10 Routes by Weekday Cycling](visualizations/top_10_routes.png)
+
+### 3. Weekday Cycling Distribution
+
+![Weekday Cycling Distribution](visualizations/weekday_ditribution.png)
+
+### 4. Weekend Cycling Distribution
+
+![Weekend Cycling Distribution](visualizations/weekend_distribution.png)
+
+### 5. Weekday vs. Weekend Cycling Scatter Plot
+
+![Weekday vs Weekend Cycling Scatter Plot](visualizations/weekday_vs_weekend.png)
+
+### 6. Route Length vs. Cycling Activity
+
+![Route Length vs Cycling Activity](visualizations/rotelength_vs_activity.png)
+
+## Tableau Dashboard
+
+![Brno Cycling Analysis Dashboard](visualizations/overall_dashboard.png)
+
 
 ## 📊 Data Source
 
