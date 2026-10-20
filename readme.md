@@ -1,12 +1,12 @@
 # 🚲 Brno Cycling Analysis | SQL & Tableau
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes cycling intensity across routes in Brno, Czech Republic, using **MySQL and Tableau**. The objective is to explore differences in cycling activity between weekdays and weekends, identify routes with higher cycling counts, and understand variations in cycling patterns across individual routes.
 
 The project follows a data analytics workflow, from data validation and exploratory data analysis using SQL to visualizing patterns and communicating findings through Tableau.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Examine data quality by checking for missing values, duplicate records, and data consistency.
 - Compare overall weekday and weekend cycling activity.
@@ -14,7 +14,7 @@ The project follows a data analytics workflow, from data validation and explorat
 - Investigate route-level differences in cycling intensity.
 - Visualize cycling patterns and distributions using Tableau.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -22,7 +22,7 @@ The project follows a data analytics workflow, from data validation and explorat
 | Tableau | Data visualization and dashboard development |
 | GitHub | Project documentation and version control |
 
-## 🗃️ Dataset Description
+## Dataset Description
 
 The project uses the `cycling_intensity` dataset, which contains cycling intensity information for routes in Brno.
 
@@ -38,7 +38,7 @@ The main variables used in the analysis are:
 | `Shape__Length` | Route geometry length attribute |
 | `GlobalID` | Global identifier |
 
-## 🔍 SQL Analysis
+## SQL Analysis
 
 SQL was used to validate the dataset, explore cycling activity, and calculate summary statistics before creating visualizations.
 
@@ -65,7 +65,7 @@ Further SQL queries were used to examine overall cycling activity and difference
 - Identifying routes with higher weekday or weekend activity.
 - Calculating relative differences between weekday and weekend cycling counts.
 
-## 📊 Tableau Visualizations
+## Tableau Visualizations
 
 The results of the SQL analysis were explored through Tableau visualizations designed to make cycling patterns easier to compare and interpret.
 
@@ -79,7 +79,7 @@ The results of the SQL analysis were explored through Tableau visualizations des
 |Route Length vs. Activity	|Investigates the relationship between route length and cycling intensity.|
 
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Higher Weekday Cycling Activity:** Weekday cycling counts totalled **720,460**, compared with **348,870** on weekends. Weekday counts were approximately **2.07 times** weekend counts, suggesting higher recorded cycling activity on weekdays.
 
