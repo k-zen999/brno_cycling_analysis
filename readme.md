@@ -71,10 +71,13 @@ The results of the SQL analysis were explored through Tableau visualizations des
 
 | Visualization | Purpose |
 |---|---|
-| Weekday vs. Weekend Cycling Activity | Compares cycling counts between weekdays and weekends. |
-| Top 10 Routes by Weekday Cycling | Compares weekday and weekend activity across the ten routes with the highest weekday counts. |
-| Weekend Cycling Count Distribution | Examines the distribution of weekend cycling counts. |
-| Route-Level Cycling Comparisons | Highlights differences in cycling intensity across individual routes. |
+|Overall Weekday vs. Weekend Cycling|	Compares the overall contribution of weekday and weekend cycling activity.|
+|Top 10 Routes by Weekday Cycling|	Compares weekday and weekend counts for the ten routes with the highest weekday cycling counts.|
+|Weekday Cycling Distribution|	Examines the distribution of weekday cycling counts across routes.|
+|Weekend Cycling Distribution|	Examines the distribution of weekend cycling counts across routes.|
+|Weekday vs. Weekend Cycling Scatter Plot|	Explores the relationship between weekday and weekend cycling counts for individual routes.|
+|Route Length vs. Activity	|Investigates the relationship between route length and cycling intensity.|
+
 
 ## 💡 Key Findings
 
