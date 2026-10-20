@@ -6,7 +6,7 @@ This project analyzes cycling intensity across routes in Brno, Czech Republic, u
 
 The project follows a data analytics workflow, from data validation and exploratory data analysis using SQL to visualizing patterns and communicating findings through Tableau.
 
-## Project Objectives
+## Objectives
 
 - Examine data quality by checking for missing values, duplicate records, and data consistency.
 - Compare overall weekday and weekend cycling activity.
@@ -14,7 +14,7 @@ The project follows a data analytics workflow, from data validation and explorat
 - Investigate route-level differences in cycling intensity.
 - Visualize cycling patterns and distributions using Tableau.
 
-## Tools & Technologies
+## Tools Used
 
 | Tool | Purpose |
 |---|---|
