@@ -79,9 +79,16 @@ The results of the SQL analysis were explored through Tableau visualizations des
 |Route Length vs. Activity	|Investigates the relationship between route length and cycling intensity.|
 
 
-## 💡 Key Findings
+## 🔍 Key Findings
 
-The analysis aims to identify meaningful differences in cycling activity across weekdays, weekends, and individual routes. The final findings will be based on the SQL query results and Tableau visualizations.
+- **Higher Weekday Cycling Activity:** Weekday cycling counts totalled **720,460**, compared with **348,870** on weekends. Weekday counts were approximately **2.07 times** weekend counts, suggesting higher recorded cycling activity on weekdays.
+
+- **Variation in Route Activity:** The top 10 routes analysis highlights differences in cycling activity across routes and compares weekday and weekend counts to identify the most heavily used routes.
+
+- **Weekday vs. Weekend Patterns:** The scatter plot compares weekday and weekend cycling counts across routes to explore whether routes with higher weekday activity also experience higher weekend activity.
+
+- **Route Length and Cycling Activity:** Comparing route length with cycling counts helps explore whether route length is associated with differences in recorded cycling activity.
+
 ## Key Visualizations
 
 ### 1. Overall Weekday vs. Weekend Cycling
